@@ -55,5 +55,5 @@ func (d rpcFriendlyDiag) FromExpr() *FromExpr {
 }
 
 func init() {
-	gob.Register((*rpcFriendlyDiag)(nil))
+	gob.RegisterName("TerraformBaseRpcFriendlyDiag", (*rpcFriendlyDiag)(nil))
 }
