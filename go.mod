@@ -5,7 +5,7 @@ require (
 	github.com/Azure/azure-sdk-for-go v36.2.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.9.2
 	github.com/Azure/go-autorest/autorest/adal v0.8.1-0.20191028180845-3492b2aff503
-	github.com/Unknwon/com v0.0.0-20151008135407-28b053d5a292 // indirect
+	github.com/Unknwon/com v0.0.0-20151008135407-28b053d5a292
 	github.com/abdullin/seq v0.0.0-20160510034733-d5467c17e7af // indirect
 	github.com/agext/levenshtein v1.2.2
 	github.com/agl/ed25519 v0.0.0-20150830182803-278e1ec8e8a6 // indirect
@@ -40,11 +40,10 @@ require (
 	github.com/golang/mock v1.3.1
 	github.com/golang/protobuf v1.3.2
 	github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db // indirect
-	github.com/google/btree v1.0.0 // indirect
 	github.com/google/go-cmp v0.3.1
 	github.com/google/uuid v1.1.1
 	github.com/gophercloud/gophercloud v0.0.0-20190208042652-bc37892e1968
-	github.com/gophercloud/utils v0.0.0-20190128072930-fbb6ab446f01 // indirect
+	github.com/gophercloud/utils v0.0.0-20190128072930-fbb6ab446f01
 	github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1 // indirect
 	github.com/gorilla/websocket v1.4.0 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0 // indirect
@@ -97,6 +96,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/go-linereader v0.0.0-20190213213312-1b945b3263eb
 	github.com/mitchellh/go-wordwrap v1.0.0
+	github.com/mitchellh/gox v1.0.1 // indirect
 	github.com/mitchellh/hashstructure v1.0.0
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/mitchellh/panicwrap v1.0.0
@@ -115,7 +115,6 @@ require (
 	github.com/smartystreets/goconvey v0.0.0-20180222194500-ef6db91d284a // indirect
 	github.com/soheilhy/cmux v0.1.4 // indirect
 	github.com/spf13/afero v1.2.1
-	github.com/terraform-providers/terraform-provider-openstack v1.15.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20171017195756-830351dc03c6 // indirect
 	github.com/ugorji/go v0.0.0-20180813092308-00b869d2f4a5 // indirect
 	github.com/vmihailenco/msgpack v4.0.1+incompatible // indirect

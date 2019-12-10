@@ -474,8 +474,6 @@ github.com/spf13/afero
 github.com/spf13/afero/mem
 # github.com/svanharmelen/jsonapi v0.0.0-20180618144545-0c0828c3f16d
 github.com/svanharmelen/jsonapi
-# github.com/terraform-providers/terraform-provider-openstack v1.15.0
-github.com/terraform-providers/terraform-provider-openstack/openstack
 # github.com/ugorji/go v0.0.0-20180813092308-00b869d2f4a5
 github.com/ugorji/go/codec
 # github.com/ulikunitz/xz v0.5.5

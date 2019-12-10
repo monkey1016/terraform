@@ -29,3 +29,9 @@ website/vendor
 # Test exclusions
 !command/testdata/**/*.tfstate
 !command/testdata/**/.terraform/
+
+terraform_darwin_*
+terraform_freebsd_*
+terraform_linux_*
+terraform_netbsd_*
+terraform_openbsd_*
